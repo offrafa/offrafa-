@@ -40,7 +40,6 @@
   
   
  
-    ![Snake animation](https://github.com/offrafa/blob/output/github-contribution-grid-snake.svg)
 
   
   
