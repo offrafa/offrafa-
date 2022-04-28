@@ -30,9 +30,10 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
   
-  
+
 
 <br/>
+    ![Snake animation](https://github.com/offrafa/offrafa/blob/main/.github/workflows/main.yml)
 
 
 <div align="center">
@@ -42,7 +43,6 @@
 </div>
   
   
-    ![Snake animation](https://github.com/offrafa/offrafa/blob/main/.github/workflows/main.yml)
 
  
 
