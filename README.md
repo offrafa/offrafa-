@@ -31,7 +31,6 @@
   
   
   
-  ![Snake animation](https://github.com/offrafa/offrafa/blob/main/.github/workflows/main.yml)
 
 <br/>
 
@@ -43,6 +42,8 @@
 </div>
   
   
+    ![Snake animation](https://github.com/offrafa/offrafa/blob/main/.github/workflows/main.yml)
+
  
 
   
