@@ -31,7 +31,7 @@
   
   
   
-  ![Snake animation](https://github.com/offrafa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/offrafa/offrafa/blob/main/.github/workflows/main.yml)
 
 <br/>
 
