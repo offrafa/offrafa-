@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <h3>Sobre mim</h3>
 <h4>Meu nome é <strong>Rafael Tavares</strong> Atualmente estudo na área de front-end com as principais tecnologias front como
   <br> JavaScript, CSS, HTML . </h4>
